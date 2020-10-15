@@ -1,5 +1,15 @@
 img {
-  width:500px;
-  height:500px;
+  width:250px;
+  height:250px;
   object-fit: cover;
+  padding: 15px;
+  border-radius: 50%;
+}
+#title {
+  text-align: center;
+  color: rgb(104, 214, 159);
+}
+
+div.card-body {
+  background-color: rgb(136, 226, 222);
 }
