@@ -7,9 +7,23 @@ img {
 }
 #title {
   text-align: center;
+  font-size: xx-large;
   color: rgb(104, 214, 159);
 }
 
 div.card-body {
   background-color: rgb(136, 226, 222);
+  color: pink;
+}
+
+div.container {
+  font-size: xx-small;
+}
+
+div.col-xs-6 {
+  padding: 20px;
+}
+
+h1 {
+  font-size: xx-large;
 }
