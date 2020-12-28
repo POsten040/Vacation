@@ -17,8 +17,9 @@ COURSEWORK
 <details>
 <summary style = "color:lightgreen">Expand </summary>
 <br>
-
-#### No Setup Avaiable
+1. Download zip file from Github.
+2. Open the vacation.html file in your internet browser.
+#### 
 </details>
 
 ## Contact 
